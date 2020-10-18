@@ -12,6 +12,7 @@ func main() {
 		go isSexy(person, c)
 	}
 	for i:=0; i <len(people); i++{
+		fmt.Print("waiting for", i)
 		fmt.Println(<-c)
 	}
 }
