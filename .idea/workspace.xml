@@ -3,9 +3,26 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="374c554a-fe05-4d88-a75f-eb33fce8c082" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
@@ -47,6 +64,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="293" y="446" key="#GOROOT" timestamp="1602679558808">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -60,6 +88,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="3" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603016258458" />
+    <state x="357" y="248" width="1246" height="790" key="dock-window-1" timestamp="1603026552558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="357" y="248" width="1246" height="790" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603026552558" />
     <state x="164" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1602998563206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
