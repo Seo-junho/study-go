@@ -130,7 +130,7 @@ func writeJobs(jobs []extractedJob){
 }
 
 func makeJobData(job extractedJob, c chan<- []string) {
-	var jobDetail = "https://kr.indeed.com/viewjob?jk=" + job.id
+	jobDetail := "https://kr.indeed.com/viewjob?jk=" + job.id
 	c <- []string{jobDetail, job.title, job.location, job.salary, job.summary}
 }
 
